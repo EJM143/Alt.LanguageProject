@@ -1,0 +1,15 @@
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/bin/Debug/net8.0/AltProgLang
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/bin/Debug/net8.0/AltProgLang.deps.json
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/bin/Debug/net8.0/AltProgLang.runtimeconfig.json
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/bin/Debug/net8.0/AltProgLang.dll
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/bin/Debug/net8.0/AltProgLang.pdb
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.AssemblyInfoInputs.cache
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.AssemblyInfo.cs
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.csproj.CoreCompileInputs.cache
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.sourcelink.json
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.dll
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/refint/AltProgLang.dll
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.pdb
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/AltProgLang.genruntimeconfig.cache
+/Users/emiguel/proglang/CSharpProgLanguage/Alt.LanguageProject/AltProgLang/AltProgLang/obj/Debug/net8.0/ref/AltProgLang.dll

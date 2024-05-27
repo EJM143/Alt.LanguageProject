@@ -1,5 +1,7 @@
 namespace AltProgLang;
-
+/// <summary>
+/// Provides properties to access and modify cellphone information
+/// </summary>
 public class Cell
 {
     public String oem { set; get; }
@@ -16,9 +18,15 @@ public class Cell
     
     public String platform_os { set; get; }
 
+    /// <summary>
+    /// Returns a string representation of the Cell object
+    /// </summary>
+    /// <returns> a string containing the values of all the Cell object </returns>
     public override string ToString()
     {
         return
             $"oem:{oem}, model:{model}, launch_announced: {launch_announced}, launch_status: {launch_status}, body_dimensions: {body_dimensions}, body_weight: {body_weight}, body_sim: {body_sim}, display_type: {display_type},display_size:{display_size}, display_resolution:{display_resolution}, features_sensors:{features_sensors}, platform_os:{platform_os}";
     }
+    
 }
+
