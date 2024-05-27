@@ -33,6 +33,6 @@ What year had the most phones launched in any year later than 1999?
 
 ## Output
 
-![AnswersImage](image.jpg)
+![AnswersImage](AnswersScreenshot1.png)
 
 In conclusion, C# emerges as a compelling alternative programming language, offering developers a rich set of features, tools, and libraries for building software applications across various domains. Its similarities to Java, robust support for OOP principles, and extensive ecosystem of libraries and frameworks make it an attractive choice for developers seeking a powerful and versatile programming language. 
